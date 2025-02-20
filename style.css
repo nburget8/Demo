@@ -1,0 +1,95 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #79ccf6;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 110px;
+  top: 73px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 633px;
+  top: 73px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 325px;
+  top: 488px;
+  width: 802px;
+  height: 47px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 257px;
+  top: 338px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 877px;
+  top: 73px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1116px;
+  top: 73px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 622px;
+  top: 661px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 647px;
+  top: 673px;
+  width: 145px;
+  height: 45px;
+}
